@@ -1,5 +1,3 @@
-
-
 export const authenticated = ( data) => ({
     type: "USER_AUTHENTICATED",
     data
